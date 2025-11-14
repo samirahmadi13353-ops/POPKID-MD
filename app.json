@@ -1,0 +1,70 @@
+{
+  "name": "POPKID-MD",
+  "description": "A lightweight WhatsApp BOT by Popkid.",
+  "repository": "https://github.com/popkidmd/POPKID-MD",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "WhatsApp Session ID",
+      "required": true
+    },
+
+    "OWNER_NUMBER": {
+      "description": "Bot owner WhatsApp number",
+      "value": "254732297194"
+    },
+    "OWNER_NAME": {
+      "description": "Owner name",
+      "value": "POPKID"
+    },
+
+    "PREFIX": {
+      "description": "Bot command prefix",
+      "value": "."
+    },
+    "BOT_NAME": {
+      "description": "Bot display name",
+      "value": "POPKID-MD"
+    },
+    "MODE": {
+      "description": "public | private | inbox | group",
+      "value": "public"
+    },
+
+    "AUTO_STATUS_SEEN": {
+      "description": "Auto view statuses",
+      "value": "true"
+    },
+    "AUTO_STATUS_REACT": {
+      "description": "Auto react to statuses",
+      "value": "true"
+    },
+    "AUTO_STATUS_REACT_EMOJI": {
+      "description": "Emoji used when auto-reacting to status",
+      "value": "❎"
+    },
+
+    "AUTO_REACT": {
+      "description": "Auto react to messages",
+      "value": "false"
+    },
+
+    "AUTO_REPLY": {
+      "description": "Enable auto text reply",
+      "value": "true"
+    },
+
+    "ANTI_LINK": {
+      "description": "Anti-link protection",
+      "value": "true"
+    },
+    "ANTI_BAD": {
+      "description": "Bad word filter",
+      "value": "true"
+    }
+  },
+
+  "buildpacks": [
+    { "url": "heroku/nodejs" }
+  ]
+}
