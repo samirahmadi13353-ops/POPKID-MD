@@ -29,7 +29,7 @@
 ---
 
 <!-- ===================== SETUP ===================== -->
-# 🛠️ **S E T U P  G U I D E ❣️**
+# 🛠️ **SET UP  GUIDE ❣️**
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 ---
 
 <!-- ===================== DEPLOY ===================== -->
-# 🚀 **D E P L O Y M E N T ✅**
+# 🚀 **DEPLOYMENT ✅**
 
 <div align="center">
 
