@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## 💛 GET FREE BOT
+## 💛 SAMI FREE BOT
 
 [![Get Mini Bot Here](https://img.shields.io/badge/GET%20MINI%20BOT-FF00FF?style=for-the-badge&logo=rocket&logoColor=white)](https://popkid-direct-pair-version-fc79abbae43a.herokuapp.com/)
 
